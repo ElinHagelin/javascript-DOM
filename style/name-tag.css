@@ -1,0 +1,13 @@
+.name-tag {
+	width: fit-content;
+	height: fit-content;
+	padding: 2em 5em;
+	border: 2px solid grey;
+	margin: 2em;
+	text-align: center;
+	border-radius: 2em;
+}
+
+.invisible {
+	visibility: hidden;
+}

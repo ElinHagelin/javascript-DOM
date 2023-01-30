@@ -1,0 +1,15 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+main {
+	background-color: aquamarine;
+
+	padding: 5em 3em;
+	border-radius: 50%;
+	text-align: center;
+
+}
